@@ -1,6 +1,6 @@
 ```
-A Western man with long hair tied back in a ponytail plays a brown bass guitar, positioned in the middle left of the screen.
-The man looks to the right, wears yellow-rimmed glasses, and sports a beard.
-He is right-handed and wears a black short-sleeved T-shirt and pants.
-The background appears blurred, evoking the feel of an African brown savanna. Faint mountain ridges are visible on the left and right, with a cloudless blue sky above.
+머리가 길어서 한 갈래로 묶은 서양 남자가 갈색 베이스 기타를 치는 모습이며, 화면의 중간 왼쪽 부분에 위치
+남자는 오른쪽을 보고 있고, 노란색 테두리 안경을 쓰고, 턱수염을 길렀다
+남자는 오른손잡이이고, 검은색 반팔 티와 바지를 입고 있음
+배경은 흐릿하게 보이며, 아프리카 갈색 초원 같은 느낌이며, 왼쪽과 오른쪽에 어렴풋이 산 능선이 보이고, 위에는 구름 한 점 없는 파란 하늘이 있음
 ```
