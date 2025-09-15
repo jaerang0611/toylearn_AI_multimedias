@@ -7,7 +7,7 @@
 
 음악: 신비롭고 차분한 분위기의 배경 음악이 흐릅니다.
 
-https://lh3.googleusercontent.com/gg/AAHar4caJgy36t2SGF_g5u96PkCGDaHheMrUTMDfKUthP9Sq3DPy3Mg5Fp5vNLcLo1Tw6wZZHA7dvg7CnPm0NMnxZJhfRklGUTQr76ZIEGEiddpZI27J7Rd-vLK_VUwGZr9-_SKENZqMyKUDke3Kd2buUCf8yz3iEnyGXYADgymbAbIW2bIZySz4xiD4pcjBMGhBRwJuE0eEbr_E48qLFl4pNns_EetWGxYjA36KUKCbSjmcNrVKEd9CFYtPCRumBJMIg0Lmy6y811iRTdQ2UfXKomNHA3fohs5_r6M9mgNgS4rOpMnciewe_9aa_Ttz5rbBFOxEA3iBiIF19WMcwnhKVIE=s1024
+[시작](https://lh3.googleusercontent.com/gg/AAHar4caJgy36t2SGF_g5u96PkCGDaHheMrUTMDfKUthP9Sq3DPy3Mg5Fp5vNLcLo1Tw6wZZHA7dvg7CnPm0NMnxZJhfRklGUTQr76ZIEGEiddpZI27J7Rd-vLK_VUwGZr9-_SKENZqMyKUDke3Kd2buUCf8yz3iEnyGXYADgymbAbIW2bIZySz4)
 
 [SCENE 2] (5~10초)
 타이틀: "쥐띠"
@@ -18,7 +18,7 @@ https://lh3.googleusercontent.com/gg/AAHar4caJgy36t2SGF_g5u96PkCGDaHheMrUTMDfKUt
 
 음악: 신중하고 조심스러운 분위기의 효과음.
 
-https://lh3.googleusercontent.com/gg/AAHar4e-5RVWslfhQXJ-oUXIbOuoSF7X-n2edpHHckyjmwb7cgg583zKSNCagWGvNMUUkn0OITzYs1xd-gy8w0majZprUxGozvFJsz2FX9vfZzUwXThWQVrPDFt8gYKE1ux8NbwOYuDcdcWwdyNDUXwlCAIvIwY0qe7FNNFk3TqSAM5eo1oDSO6z6h6iRaVKwxyZ7WjhyctTDAR7Gr417VWAqTyVtaHncqBMUx6fFFQSCVsBGPM-rHiFi21CBMOu_uhPEDDUHU7VyJgp40owgh13vvNRRlmCMwYUYHvkWQ05QBCSJ_7kxcWQvZge0NPIB1Vc4X_MnUAunL5gFjj9VWemk0w=s1024
+[쥐띠](https://lh3.googleusercontent.com/gg/AAHar4e-5RVWslfhQXJ-oUXIbOuoSF7X-n2edpHHckyjmwb7cgg583zKSNCagWGvNMUUkn0OITzYs1xd-gy8w0majZprUxGozvFJsz2FX9vfZzUwXThWQVrPDFt8gYKE1ux8NbwOYuDcdcWwdyNDUXwlCAIvIwY0qe7FNNFk3TqSAM5eo1oDSO6z6h6iRaVKwxyZ7WjhyctTDAR7Gr417VWAqTyVtaHncqBMUx6fFFQSCVsBGPM-rHiFi21CBMOu_uhPEDDUHU7VyJgp40owgh13vvNRRlmCMwYUYHvkWQ05QBCSJ_7kxcWQvZge0NPIB1Vc4X_MnUAunL5gFjj9VWemk0w=s1024)
 
 [SCENE 3] (10~15초)
 타이틀: "소띠"
@@ -29,7 +29,7 @@ https://lh3.googleusercontent.com/gg/AAHar4e-5RVWslfhQXJ-oUXIbOuoSF7X-n2edpHHcky
 
 음악: 희망차고 밝은 느낌의 멜로디.
 
-https://lh3.googleusercontent.com/gg/AAHar4eoiLvaQaZk2CR4wUz75u-gjJFJ0G77xBuGBkwRmPX-gvgdlogIsj5NxLIrphfJbl2v5jBPVpXNnnGqBP9HNYm9STPKJ-eFW5xNSZqahX6ra19tvAsvqGF1xgXz4sLUNDphaIm2379OsHyctcMn7Z6wgb_lqBJzA9CghrwpfRvCCUCTPct0ylr0iifkOfSUh57VFu0Ky5LVY7Mtj3zDhdK4Lnlns_eteKv16awgsDW5MGk-o0nDHDDrnzTxnPao90TwKIVskgep2vMcQgki2wR1R1XsLsMHpwyiH8fOTUeDhIJDOoe50Gc3o8OqTGAEWvkDXLlLGPH-dyNSya6Blxcr=s1024
+[소띠](https://lh3.googleusercontent.com/gg/AAHar4eoiLvaQaZk2CR4wUz75u-gjJFJ0G77xBuGBkwRmPX-gvgdlogIsj5NxLIrphfJbl2v5jBPVpXNnnGqBP9HNYm9STPKJ-eFW5xNSZqahX6ra19tvAsvqGF1xgXz4sLUNDphaIm2379OsHyctcMn7Z6wgb_lqBJzA9CghrwpfRvCCUCTPct0)
 
 [SCENE 4] (15~20초)
 타이틀: "호랑이띠"
@@ -40,7 +40,7 @@ https://lh3.googleusercontent.com/gg/AAHar4eoiLvaQaZk2CR4wUz75u-gjJFJ0G77xBuGBkw
 
 음악: 웅장하지만 조심스러운 느낌.
 
-https://lh3.googleusercontent.com/gg-dl/AJfQ9KSG2DMY53ERrO4aSz62A40nY7EDl_UCHZoR_hZOJgoMQq6sG-fP4B6ItiFTYzLTklA-5kMaq-L9TqJm2LYu9_zBqem_e1zORZj5QbmkG-b8U8IwTrJ4HsvdyK5a3hCGf3aR6ARrd0RnF6vfWIzmnSiF-i8-RD7tSB9ECec16ztBZspmcg=s1024?authuser=1
+[호랑이띠](https://lh3.googleusercontent.com/gg-dl/AJfQ9KSG2DMY53ERrO4aSz62A40nY7EDl_UCHZoR_hZOJgoMQq6sG-fP4B6ItiFTYzLTklA-5kMaq-L9TqJm2LYu9_zBqem_e1zORZj5QbmkG-b8U8IwTrJ4HsvdyK5a3hCGf3aR6ARrd0RnF6vfWIzmnSiF-i8-RD7tSB9ECec16ztBZspmcg=s1024?authuser=1)
 
 [SCENE 5] (20~25초)
 타이틀: "토끼띠"
@@ -51,7 +51,7 @@ https://lh3.googleusercontent.com/gg-dl/AJfQ9KSG2DMY53ERrO4aSz62A40nY7EDl_UCHZoR
 
 음악: 따뜻하고 평화로운 분위기의 멜로디.
 
-https://lh3.googleusercontent.com/gg-dl/AJfQ9KQM2YPa7KBqIu_yCcvn-RG8x78qfsyDCSwI98gRY-aKP8J2gN5XTSBFomKOWX71k6z9VD78M4bce_Whzjee5lulZNSLEKKBxmqkfT-YNFFwcFmeR_dY45m99UNfcECjYBY5C8SYZ8oOtK48QCyE6yq7iaZADQGiaVTL8nBrROICKYS0=s1024?authuser=1
+[토끼띠](https://lh3.googleusercontent.com/gg-dl/AJfQ9KQM2YPa7KBqIu_yCcvn-RG8x78qfsyDCSwI98gRY-aKP8J2gN5XTSBFomKOWX71k6z9VD78M4bce_Whzjee5lulZNSLEKKBxmqkfT-YNFFwcFmeR_dY45m99UNfcECjYBY5C8SYZ8oOtK48QCyE6yq7iaZADQGiaVTL8nBrROICKYS0=s1024?authuser=1)
 
 [SCENE 6] (25~30초)
 타이틀: "용띠"
@@ -62,7 +62,7 @@ https://lh3.googleusercontent.com/gg-dl/AJfQ9KQM2YPa7KBqIu_yCcvn-RG8x78qfsyDCSwI
 
 음악: 신비로우면서도 긴장감을 주는 효과음.
 
-https://lh3.googleusercontent.com/gg-dl/AJfQ9KTZGNWspKNamf9HU6tW4dvkkj76C3uP0eNHLBxr7AqqHBJO0MNWg08WH7XYMcM0Mp8cP3pnlmxrxawfq03r-DT4kUv-mR4l-muDfIzXJKMijoQMbAM7Mllp2vKL6RLxILdCKkLpKXbfA74wN-Jb6OXlJdzZIoVXjrhEZOiL8ckauihU0g=s1024?authuser=1
+[용띠](https://lh3.googleusercontent.com/gg-dl/AJfQ9KTZGNWspKNamf9HU6tW4dvkkj76C3uP0eNHLBxr7AqqHBJO0MNWg08WH7XYMcM0Mp8cP3pnlmxrxawfq03r-DT4kUv-mR4l-muDfIzXJKMijoQMbAM7Mllp2vKL6RLxILdCKkLpKXbfA74wN-Jb6OXlJdzZIoVXjrhEZOiL8ckauihU0g=s1024?authuser=1)
 
 [SCENE 7] (30~35초)
 타이틀: "뱀띠"
@@ -73,7 +73,7 @@ https://lh3.googleusercontent.com/gg-dl/AJfQ9KTZGNWspKNamf9HU6tW4dvkkj76C3uP0eNH
 
 음악: 조용하고 깊은 느낌의 배경 음악.
 
-https://lh3.googleusercontent.com/gg-dl/AJfQ9KSECq3ZtIR1Uq4Ib-36JoNpfVs_dhEgbE4FDqmne_9qEY8jLDDFegyID9wUdShTedgR-WnDJrp-qnu8spChGsp-b2cyO4z6fEkO-62C7IzM_kjURizDoYE_U_rqsyQC-j6sgqUbTkzPB-_6Jayj7eQWnIlzqM7SO_HPy8nrRsAFxL2c=s1024?authuser=1
+[뱀띠](https://lh3.googleusercontent.com/gg-dl/AJfQ9KSECq3ZtIR1Uq4Ib-36JoNpfVs_dhEgbE4FDqmne_9qEY8jLDDFegyID9wUdShTedgR-WnDJrp-qnu8spChGsp-b2cyO4z6fEkO-62C7IzM_kjURizDoYE_U_rqsyQC-j6sgqUbTkzPB-_6Jayj7eQWnIlzqM7SO_HPy8nrRsAFxL2c=s1024?authuser=1)
 
 [SCENE 8] (35~40초)
 타이틀: "말띠"
@@ -84,7 +84,7 @@ https://lh3.googleusercontent.com/gg-dl/AJfQ9KSECq3ZtIR1Uq4Ib-36JoNpfVs_dhEgbE4F
 
 음악: 경쾌하고 활기찬 리듬.
 
-https://lh3.googleusercontent.com/gg-dl/AJfQ9KRLGLpcPBNMCConHSjXax5z7ciOQEnrm4sXVEmdAPG1-f8l_tdEqJE916FiEXbppV7ZXjSCZIY2MrlL_dF94g9AucR6W0OoyyYp7jl6oFAp-GS9I6xb12tJxaqQPk7Z4uYHA0PEaGN6L55W5HUnLaYPcUY0WAAPf3CWYIwrfVAk8Byoig=s1024?authuser=1
+[말띠](https://lh3.googleusercontent.com/gg-dl/AJfQ9KRLGLpcPBNMCConHSjXax5z7ciOQEnrm4sXVEmdAPG1-f8l_tdEqJE916FiEXbppV7ZXjSCZIY2MrlL_dF94g9AucR6W0OoyyYp7jl6oFAp-GS9I6xb12tJxaqQPk7Z4uYHA0PEaGN6L55W5HUnLaYPcUY0WAAPf3CWYIwrfVAk8Byoig=s1024?authuser=1)
 
 [SCENE 9] (40~45초)
 타이틀: "양띠"
@@ -95,7 +95,7 @@ https://lh3.googleusercontent.com/gg-dl/AJfQ9KRLGLpcPBNMCConHSjXax5z7ciOQEnrm4sX
 
 음악: 부드럽고 편안한 분위기의 음악.
 
-https://lh3.googleusercontent.com/gg-dl/AJfQ9KTEnRtVRqGfGPnh_GzK6wx6PsaWUtE_H7s4VnjEEV5fmFwlM_LlcCjZWd7_ariZKVgeg0MugEuG4wQlf4sv4iegRly-nLd62e0iBWJgoB91eux-u5ojBhkN3DwIS6Jvnl3hfaHuAIvaeHaHqs2uSxokd9SdXv-_ltiLMG-sZfi-24mN2w=s1024?authuser=1
+[양띠](https://lh3.googleusercontent.com/gg-dl/AJfQ9KTEnRtVRqGfGPnh_GzK6wx6PsaWUtE_H7s4VnjEEV5fmFwlM_LlcCjZWd7_ariZKVgeg0MugEuG4wQlf4sv4iegRly-nLd62e0iBWJgoB91eux-u5ojBhkN3DwIS6Jvnl3hfaHuAIvaeHaHqs2uSxokd9SdXv-_ltiLMG-sZfi-24mN2w=s1024?authuser=1)
 
 [SCENE 10] (45~50초)
 타이틀: "원숭이띠"
@@ -106,7 +106,7 @@ https://lh3.googleusercontent.com/gg-dl/AJfQ9KTEnRtVRqGfGPnh_GzK6wx6PsaWUtE_H7s4
 
 음악: 장난기 넘치고 재치 있는 효과음.
 
-https://lh3.googleusercontent.com/gg-dl/AJfQ9KQvQz3duo416Xuw7ENiMKB8hOjCn1xd9-8lOPrtDOe3AKMtAPT4RG0PnLhoTQv4ir2Yp3kjLi-RIQJNJOkB7KBrTM1i7Tapae8a-7rhq54tTMZxgWzXdWE8zHbLR6bG4hFEIb2OSt7xQr2G3Q4-qdkkcbVc7dMl2TD6xHZMymZyBCfIUQ=s1024?authuser=1
+[원숭이띠](https://lh3.googleusercontent.com/gg-dl/AJfQ9KQvQz3duo416Xuw7ENiMKB8hOjCn1xd9-8lOPrtDOe3AKMtAPT4RG0PnLhoTQv4ir2Yp3kjLi-RIQJNJOkB7KBrTM1i7Tapae8a-7rhq54tTMZxgWzXdWE8zHbLR6bG4hFEIb2OSt7xQr2G3Q4-qdkkcbVc7dMl2TD6xHZMymZyBCfIUQ=s1024?authuser=1)
 
 [SCENE 11] (50~55초)
 타이틀: "닭띠"
@@ -117,7 +117,7 @@ https://lh3.googleusercontent.com/gg-dl/AJfQ9KQvQz3duo416Xuw7ENiMKB8hOjCn1xd9-8l
 
 음악: 꾸준하고 희망찬 분위기.
 
-https://lh3.googleusercontent.com/gg-dl/AJfQ9KRRgmcQflwP-L0Tvl3LDmLICv14IOE0rl1GwZlrmFWnXSbBBZuyaCM4KXZb-feVkPtjc-FNudGOEIOAWhsoNyGaKyoXD6zJh7iGGsGdlwIIUidWm0Eh5DAedQHBKE8qnUecb0UmtYwHWepurENI3a-oSA91oU7yuB0XGXkyemUwaoWRFA=s1024?authuser=1
+[닭띠](https://lh3.googleusercontent.com/gg-dl/AJfQ9KRRgmcQflwP-L0Tvl3LDmLICv14IOE0rl1GwZlrmFWnXSbBBZuyaCM4KXZb-feVkPtjc-FNudGOEIOAWhsoNyGaKyoXD6zJh7iGGsGdlwIIUidWm0Eh5DAedQHBKE8qnUecb0UmtYwHWepurENI3a-oSA91oU7yuB0XGXkyemUwaoWRFA=s1024?authuser=1)
 
 [SCENE 12] (55~60초)
 타이틀: "개띠"
@@ -128,7 +128,7 @@ https://lh3.googleusercontent.com/gg-dl/AJfQ9KRRgmcQflwP-L0Tvl3LDmLICv14IOE0rl1G
 
 음악: 따뜻하고 감성적인 멜로디.
 
-blob:https://labs.google/09200dbb-9a2c-4bb1-b968-e2941af9c2c5
+[개띠](blob:https://labs.google/09200dbb-9a2c-4bb1-b968-e2941af9c2c5)
 
 [SCENE 13] (60초)
 타이틀: "돼지띠"
@@ -139,7 +139,7 @@ blob:https://labs.google/09200dbb-9a2c-4bb1-b968-e2941af9c2c5
 
 음악: 감동적이고 따뜻한 멜로디.
 
-blob:https://labs.google/e3ef2dad-390a-4090-9439-6eb633d44762
+[돼지띠](blob:https://labs.google/e3ef2dad-390a-4090-9439-6eb633d44762)
 
 [FINAL SCENE] (60초)
 타이틀: "오늘 하루도 행운이 함께하길!"
@@ -148,7 +148,7 @@ blob:https://labs.google/e3ef2dad-390a-4090-9439-6eb633d44762
 
 음악: 모든 운세 스토리가 끝난 후, 편안하고 긍정적인 느낌의 멜로디가 페이드아웃됩니다.
 
-blob:https://labs.google/a0dda9c2-039d-49ec-8959-c7fab15bed9a
+[끝](blob:https://labs.google/a0dda9c2-039d-49ec-8959-c7fab15bed9a)
 
 1
 00:00:00,000 --> 00:00:05,000
