@@ -1,3 +1,5 @@
+## Story Board
+
 ```
 
 [SCENE 1] (0~5초)
@@ -203,6 +205,8 @@
 ```
 
 [끝](blob:https://labs.google/a0dda9c2-039d-49ec-8959-c7fab15bed9a)
+
+## Scripts
 
 ```
 
