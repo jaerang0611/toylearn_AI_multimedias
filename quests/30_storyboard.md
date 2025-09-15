@@ -176,7 +176,7 @@
 
 ```
 
-[개띠.png](blob:https://labs.google/09200dbb-9a2c-4bb1-b968-e2941af9c2c5)
+[개띠.png](https://labs.google/09200dbb-9a2c-4bb1-b968-e2941af9c2c5)
 
 ```
 
@@ -191,7 +191,7 @@
 
 ```
 
-[돼지띠.png](blob:https://labs.google/e3ef2dad-390a-4090-9439-6eb633d44762)
+[돼지띠.png](https://labs.google/e3ef2dad-390a-4090-9439-6eb633d44762)
 
 ```
 
@@ -204,7 +204,7 @@
 
 ```
 
-[끝.png](blob:https://labs.google/a0dda9c2-039d-49ec-8959-c7fab15bed9a)
+[끝.png](https://labs.google/a0dda9c2-039d-49ec-8959-c7fab15bed9a)
 
 ## Scripts
 
