@@ -1,4 +1,4 @@
-## How to using Adobe Premiere Pro 2024
+## How to use Adobe Premiere Pro 2024
 
 ```
 
