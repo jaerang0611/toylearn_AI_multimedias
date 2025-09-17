@@ -4,5 +4,5 @@
 
 ## 이미지
 
-[호랑이](https://labs.google/fx/tools/whisk/share/6nhnqdokd0000)
-[사슴](https://labs.google/fx/tools/whisk/share/0fnrnacb60000)
+- [호랑이](https://labs.google/fx/tools/whisk/share/6nhnqdokd0000)
+- [사슴](https://labs.google/fx/tools/whisk/share/0fnrnacb60000)
