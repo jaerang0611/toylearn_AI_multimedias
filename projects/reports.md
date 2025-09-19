@@ -48,7 +48,6 @@
 
 ```
 
-## 캐릭터 이미지 및 배경
+## 메인 캐릭터 및 배경
 
-- [메인 캐릭터]()
-- [배경]()
+[Character & Background](https://github.com/jaerang0611/toylearn_AI_multimedias/blob/main/projects/character%20%26%20background.png)
