@@ -1,0 +1,29 @@
+## Prompts
+
+메인 캐릭터 이미지 생성 프롬프트 제안 (방향 1: 삶을 탐구하는 지혜로운 관찰자)
+핵심 키워드: thoughtful observer, wise, contemplative, interviewer, seeking answers, warm gaze, intellectual, composed.
+
+프롬프트 사용 팁:
+구체성: 최대한 구체적으로 묘사할수록 AI가 의도에 맞는 이미지를 생성할 확률이 높습니다.
+키워드 조정: 'wise', 'contemplative', 'thoughtful', 'gentle', 'discerning' 등 캐릭터의 성격을 나타내는 형용사를 다양하게 시도해 보세요.
+환경 설정: 캐릭터가 어떤 공간에 있고, 무엇을 하고 있는지(action), 주변 배경은 어떤지(setting)를 명확히 제시하는 것이 중요합니다. 이는 캐릭터의 '느낌'을 강화합니다.
+조명/분위기: 'soft, warm light', 'diffused light', 'cinematic lighting', 'moody' 등 조명과 분위기를 설정하면 원하는 감성을 더할 수 있습니다.
+반복 시도: 한 번에 완벽한 이미지가 나오지 않을 수 있습니다. 프롬프트의 세부 내용을 조금씩 바꿔가며 여러 번 시도해 보세요. (예: 안경 모양, 헤어스타일, 옷 색깔, 배경 등)
+'한국인 남성' 추가 여부: 특정 인종을 원한다면 Korean male character를 추가할 수 있지만, AI가 특정 인종을 스테레오타입적으로 묘사할 수 있으니 주의 깊게 확인해야 합니다. '지적인 느낌', '따뜻한 눈빛' 등 본질적인 특성을 강조하는 것이 더 나을 수 있습니다.
+이 프롬프트 예시들을 참고하여 멋진 메인 캐릭터 이미지를 성공적으로 만드시길 바랍니다!
+
+[프롬프트 템플릿]
+
+A [gender, e.g., male] character in his [age range, e.g., late 40s to early 50s], with a [hair color and style, e.g., neat dark hair, slightly graying at the temples], a [facial feature, e.g., gentle smile/contemplative expression], and [eye description, e.g., warm, intelligent eyes behind stylish glasses]. He is dressed in a [clothing style, e.g., smart casual outfit like a sophisticated tweed blazer over a simple dark turtleneck, or a neatly ironed linen shirt]. The setting is [background, e.g., a cozy study filled with books, a dimly lit cafe, a blurred cityscape visible through a window]. He is [action, e.g., holding a small notebook and a pen, looking thoughtfully into the distance, listening intently to an unseen person]. The lighting is [lighting, e.g., soft, warm, diffused light] creating a [mood, e.g., contemplative and slightly enigmatic] atmosphere. High detail, cinematic quality, realistic photo.
+
+[구체적인 프롬프트 예시 1: 사색적인 분위기 강조]
+
+A male character in his late 40s, with neat dark hair slightly graying at the temples, a contemplative expression, and warm, intelligent eyes behind stylish, slim-framed glasses. He is dressed in a sophisticated dark blue tweed blazer over a simple black turtleneck. The setting is a cozy study, softly lit by a desk lamp, with shelves of blurred books in the background. He is holding a small, worn leather-bound notebook and a pen, looking thoughtfully into the distance, as if pondering deep questions. The lighting is soft and warm, creating a contemplative and slightly enigmatic atmosphere. High detail, cinematic quality, realistic photo.
+
+[구체적인 프롬프트 예시 2: 인터뷰어의 모습 강조]
+
+A male character in his early 50s, with neatly styled dark hair and a kind, discerning expression. He wears round, intellectual glasses. He is dressed in a comfortable yet sharp linen shirt, slightly unbuttoned at the collar. He is seated at a minimalist cafe table, gently leaning forward, listening intently to an unseen interviewee. His posture is engaged but composed. A blurred background of a bustling but not distracting urban cafe. Soft, diffused light highlights his thoughtful face. High detail, cinematic quality, realistic photo.
+
+[구체적인 프롬프트 예시 3: 지혜로운 면모 강조]
+
+A male character in his mid-40s, with well-groomed dark hair, a gentle, understanding smile, and profound eyes. He wears a stylish, dark-rimmed pair of glasses. He is wearing a simple but elegant gray knit sweater. He is sitting beside a large window, looking out at a softly lit cityscape, a half-finished cup of coffee on the table beside him. His expression is one of deep wisdom and quiet observation. The light is warm and slightly melancholic, creating an atmosphere of deep reflection. High detail, cinematic quality, realistic photo.
