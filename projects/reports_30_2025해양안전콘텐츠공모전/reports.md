@@ -15,3 +15,7 @@ AI 이순신 목소리: "나 이순신은 결코 물러서지 않았다. 해양 
 AI로 생성된 안전하고 활기찬 미래의 바다 모습.
 강렬한 AI 텍스트: "이순신 장군의 정신으로, 해양 안전 불감증을 근절하자!"
 공모전 주최 기관 로고 및 슬로건.
+
+## Character
+- [캐릭터1](https://labs.google/fx/ko/tools/whisk/share/6vrtemdj0g000)
+- [캐릭터2](https://labs.google/fx/ko/tools/whisk/share/4cq804ost0000)
